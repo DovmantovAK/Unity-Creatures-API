@@ -1,0 +1,19 @@
+{
+    "name": "Unity.Creatures.Database.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0383f10d57a2aa9478615f118b9a3242",
+        "GUID:f0611306a61e8174f99ddca17a7bf425"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

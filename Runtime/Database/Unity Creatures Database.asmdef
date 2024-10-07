@@ -1,0 +1,16 @@
+{
+    "name": "Unity.Creatures.Database",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0383f10d57a2aa9478615f118b9a3242"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

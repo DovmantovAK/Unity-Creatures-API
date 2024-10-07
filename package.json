@@ -1,0 +1,14 @@
+{
+    "name": "com.dovmantovak.creaturesapi",
+    "version": "0.1.0",
+    "displayName": "Unity Creatures API",
+    "description": "This is package created for manipulating data, position, animation and mood of creatures and characters in Unity using ECS and DOTS.",
+    "unity": "2020.3",
+    "author": {
+        "name": "Dovmantov Alexander",
+        "email": "alexanderdovmantov@gmail.com",
+        "url": "https://github.com/DovmantovAK/Unity-Creatures-API"
+    },
+    "dependencies": {}
+}
+  
